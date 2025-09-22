@@ -1,10 +1,8 @@
 Hi 👋 My name is Prince Herman Mutungi
 ======================================
 
-Web Developer | App Developer | Ui/Ux Designer
+Web Developer | App Developer 
 ----------------------------------------------
-
-I have been developing for 3 years.I enjoy the process
 
 * 🌍  I'm based in Dar es salaam, Tanzania
 * 🤝  I'm open to collaborating on Any interesing projects from webapps to web3 to cool mobile apps
